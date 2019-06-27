@@ -23,3 +23,16 @@
 ### With Logo
 ![](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo%40thumbnail.png)
 【[S](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo.png)｜[M](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo%402x.png)｜[L](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo%403x.png)｜[XL](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo%404x.png)】【[SVG](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo.svg)｜[PDF](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-eye-logo.PDF)】
+
+
+## Image for Open Graph Protocol
+
+![](https://github.com/VLDB2020/artworks/blob/master/open-graph-protocol/logo-shibuya.jpg)
+
+## Template
+
+### Presentation (Microsoft PowerPoint)
+- [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-slide-template.pptx)
+
+### Letterhead (Microsoft Word)
+- [vldb2020-letterhead.docx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-letterhead.docx)
