@@ -1,6 +1,6 @@
 # VLDB2020 @ Tokyo: Artworks
 
-## Bunner
+## Banner
 ![VLDB2020 logo](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%40thumbnail.png)
 【[S](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.png)｜[M](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%402x.png)｜[L](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%403x.png)｜[XL](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%404x.png)】【[SVG](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.svg)｜[PDF](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.PDF)】
 
