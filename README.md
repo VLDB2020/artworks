@@ -27,12 +27,12 @@
 
 ## Image for Open Graph Protocol
 
-![](https://github.com/VLDB2020/artworks/blob/master/open-graph-protocol/logo-shibuya.jpg)
+![](https://github.com/VLDB2020/artworks/blob/master/open-graph-protcol/logo_shibuya.jpg)
 
 ## Template
 
 ### Presentation (Microsoft PowerPoint)
-- [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-slide-template.pptx)
+- [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/raw/master/template/vldb2020-slide-template.pptx)
 
 ### Letterhead (Microsoft Word)
-- [vldb2020-letterhead.docx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-letterhead.docx)
+- [vldb2020-letterhead.docx](https://github.com/VLDB2020/artworks/raw/master/template/vldb2020-letterhead.docx)
