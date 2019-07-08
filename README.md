@@ -1,6 +1,6 @@
 # VLDB2020 @ Tokyo: Artworks
 
-## Bunner
+## Banner
 ![VLDB2020 logo](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%40thumbnail.png)
 【[S](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.png)｜[M](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%402x.png)｜[L](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%403x.png)｜[XL](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner%404x.png)】【[SVG](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.svg)｜[PDF](https://github.com/VLDB2020/artworks/blob/master/logo/vldb2020-banner.PDF)】
 
@@ -27,12 +27,12 @@
 
 ## Image for Open Graph Protocol
 
-![](https://github.com/VLDB2020/artworks/blob/master/open-graph-protocol/logo-shibuya.jpg)
+![](https://github.com/VLDB2020/artworks/blob/master/open-graph-protcol/logo_shibuya.jpg)
 
 ## Template
 
 ### Presentation (Microsoft PowerPoint)
-- [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-slide-template.pptx)
+- [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/raw/master/template/vldb2020-slide-template.pptx)
 
 ### Letterhead (Microsoft Word)
-- [vldb2020-letterhead.docx](https://github.com/VLDB2020/artworks/blob/master/template/vldb2020-letterhead.docx)
+- [vldb2020-letterhead.docx](https://github.com/VLDB2020/artworks/raw/master/template/vldb2020-letterhead.docx)
