@@ -31,18 +31,23 @@
 
 ## Template
 
-### Zoom Ready Virtual Background Image and Video
+### Zoom Ready 16:9 Virtual Background Image and Video
 
 1. *Image*: Grid
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-thumbnail.jpg)
 1. *Image*: Grid With Sponsors
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor-thumbnail.jpg)
 1. *Image*: Tokyo Skyline
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-skylines.jpg)
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skylines.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skyline-thumbnail.jpg)
 1. *Image*: Tokyo Night
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night-pthumbnail.jpg)
 1. ***Video***: Tokyo Night
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/toppage-background-tokyo-night.mp4)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night-mthumbnail.jpg)
 
 ### Presentation (Microsoft PowerPoint)
 - [vldb2020-slide-template.pptx](https://github.com/VLDB2020/artworks/raw/master/template/vldb2020-slide-template.pptx)
