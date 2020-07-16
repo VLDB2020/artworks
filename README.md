@@ -33,6 +33,9 @@
 
 ### Zoom Ready 16:9 Virtual Background Image and Video
 
+1. *Image*: Simple
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-simple.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-simple-thumbnail.jpg)
 1. *Image*: Grid
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-thumbnail.jpg)
