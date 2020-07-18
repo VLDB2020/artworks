@@ -43,7 +43,7 @@
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor-thumbnail.jpg)
 1. *Image*: Tokyo Skyline
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skylines.jpg)
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skyline.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skyline-thumbnail.jpg)
 1. *Image*: Tokyo Night
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night.jpg)
