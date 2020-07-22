@@ -40,11 +40,11 @@
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-night.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-night-thumbnail.jpg)
 1. **TOKYO Neon**
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-neon-grid.jpg)
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-neon.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-neon-thumbnail.jpg)
 1. **TOKYO Skyline**
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-skyline.jpg)
-    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-slyline-thumbnail.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-skyline-thumbnail.jpg)
 1. **TOKYO River**
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-sumida-river.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-sumida-river-thumbnail.jpg)
