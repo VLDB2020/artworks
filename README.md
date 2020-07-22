@@ -33,22 +33,25 @@
 
 ### Zoom Ready 16:9 Virtual Background Image and Video
 
-1. *Image*: Simple
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-simple.jpg)
-    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-simple-thumbnail.jpg)
-1. *Image*: Grid
+1. **VLDB 2020 Grid**
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid.jpg)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-thumbnail.jpg)
-1. *Image*: Grid With Sponsors
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor.jpg)
-    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-grid-sponsor-thumbnail.jpg)
-1. *Image*: Tokyo Skyline
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skyline.jpg)
-    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-skyline-thumbnail.jpg)
-1. *Image*: Tokyo Night
-    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night.jpg)
-    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night-pthumbnail.jpg)
-1. ***Video***: Tokyo Night
+1. **TOKYO Night**
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-night.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-night-thumbnail.jpg)
+1. **TOKYO Neon**
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-neon-grid.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-neon-thumbnail.jpg)
+1. **TOKYO Skyline**
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-skyline.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-slyline-thumbnail.jpg)
+1. **TOKYO River**
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-sumida-river.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-sumida-river-thumbnail.jpg)
+1. **Shinkansen (Bullet train)**
+    * [Download](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-shinkansen.jpg)
+    * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-shinkansen-thumbnail.jpg)
+1. *Video*: **TOKYO Neon**
     * [Download](https://github.com/VLDB2020/artworks/blob/master/background/toppage-background-tokyo-night.mp4)
     * ![](https://github.com/VLDB2020/artworks/blob/master/background/vldb2020-background-tokyo-night-mthumbnail.jpg)
 
